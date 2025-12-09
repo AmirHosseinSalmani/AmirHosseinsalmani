@@ -3,7 +3,7 @@
   <img src="cristina-gottardi-CSpjU6hYo_0-unsplash.jpg" width="100%" height="230px" background-position="center" background-size="cover"  alt="Header Banner" />
 </p>
 
-<h1 align="center">👋 Hi, I'm AmirHossein Salmani</h1>
+<h1 align="center">👋 Hi, I'm AmirHossein</h1>
 <p align="center">
  Front-End Developer | Ideas and Creativity: Crafting the Future
 </p>
@@ -24,7 +24,7 @@
 
 ## 🧑🏻‍💻 About Me
 
-Hello! I’m Amirhossein, a 21-year-old Front-End Developer with 3 years of experience in this field. From the very beginning, programming has never been just a skill for me… it became a way to create, innovate, and turn ideas into reality ✨
+Hello! I’m Amirhossein Salmani, a 21-year-old Front-End Developer with 3 years of experience in this field. From the very beginning, programming has never been just a skill for me… it became a way to create, innovate, and turn ideas into reality ✨
 
 I’m deeply passionate about creating — whether it’s designing a user interface or building a new experience. Every time I sit behind the screen, I feel like I enter a world where I can turn a few lines of code into something visible, tangible, and meaningful for people 😊
 
