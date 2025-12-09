@@ -17,7 +17,9 @@
   <a href="https://github.com/AmirHosseinSalmani">
     <img height="28" src="https://skillicons.dev/icons?i=github" />
   </a>
-
+  <a href="https://www.instagram.com/amirs.salmani/">
+    <img height="28" src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
 
 ---
@@ -58,11 +60,6 @@ A place to create, experiment, and reach for big dreams ✨🚀
 
 ## ⭐ Featured Projects
 
-### 🔥 [Project One](#)
-Responsive landing page with subtle animations and clean UI.
-
-### ⚡ [Project Two](#)
-Next.js dashboard UI with charts and reusable components.
 
 ---
 
@@ -76,12 +73,12 @@ Next.js dashboard UI with charts and reusable components.
 ---
 
 ## 📬 Contact
-<p>  <a href="mailto:salmaniamirgk1@example.com">
+<!-- <p>  <a href="mailto:salmaniamirgk1@example.com">
     <img height="18" src="https://skillicons.dev/icons?i=email" />
   </a> https://yourwebsite.com </p>  
 - Email: youremail@example.com  
 - LinkedIn: https://linkedin.com/in/yourprofile  
-- YouTube: https://youtube.com/yourchannel  
+- YouTube: https://youtube.com/yourchannel   -->
 
 ---
 
