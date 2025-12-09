@@ -11,11 +11,8 @@
 
 <!-- Social Icons -->
 <p align="center">
-  <a href="www.linkedin.com/in/amir-hossein-salmani">
+  <a href="[www.linkedin.com/in/amir-hossein-salmani](https://www.linkedin.com/in/amir-hossein-salmani)">
     <img height="28" src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/AmirHosseinSalmani">
-    <img height="28" src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://www.instagram.com/amirs.salmani/">
     <img height="28" src="https://skillicons.dev/icons?i=instagram" />
